@@ -1,1 +1,10 @@
 node_modules
+*.pyc
+*~
+__pycache__
+VenvMfs
+/static
+.DS_Store
+*.log
+/.idea
+venv/
